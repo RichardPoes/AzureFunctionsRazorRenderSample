@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RRS.FunctionApp", "RazorRenderSample.FunctionApp\RRS.FunctionApp.csproj", "{A976D161-88C5-4828-B01C-B695DEB72637}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RRS.FunctionApp", "RRS.FunctionApp\RRS.FunctionApp.csproj", "{A976D161-88C5-4828-B01C-B695DEB72637}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
